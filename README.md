@@ -1,9 +1,9 @@
-##1.项目描述
+## 1.项目描述
 基于Java开发的学生信息管理系统
 
-##2.功能描述
+## 2.功能描述
 
-###管理的学生信息包括
+### 管理的学生信息包括
 * 姓名
 * 专业
 * 学号
@@ -15,16 +15,16 @@
 * 照片（图像）
 * 个人简介（声音）
 
-###提供的功能包括
+### 提供的功能包括
 * 添加
 * 查询
 * 删除
 * 修改
 
-###数据库
+### 数据库
 * 数据库采用MySQL
 
-##3.项目截图
+## 3.项目截图
 * 登录界面
 ![login](https://github.com/JasonLin1230/student-information-management/blob/master/screenshots/login.jpg?raw=true)
 
