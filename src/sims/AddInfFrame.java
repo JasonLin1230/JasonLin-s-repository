@@ -310,21 +310,6 @@ public class AddInfFrame extends MainFrame{
 	}
 	
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
-		//AddInfFrame i=new AddInfFrame();
-		
-		//i.Top();
-		//i.Left();
-		//i.Center();
-		//i.addpho();
-		//i.save_Btn();     
-		//i.clear_Btn();
-//		try {
-//			Class cls=Class.forName("AddInfFrame");
-//		} catch (ClassNotFoundException e) {
-//			// TODO 自动生成的 catch 块
-//			e.printStackTrace();
-//		}
 		AddInfFrame ail=new AddInfFrame();
 		ail.Top();
 		ail.Center();
@@ -332,8 +317,6 @@ public class AddInfFrame extends MainFrame{
 		ail.save_Btn();
 		ail.clear_Btn();
 		ail.return_Btn();
-		//ail.windowClosing(null);
-		//ail.closeWarn();
 	}
 }
 

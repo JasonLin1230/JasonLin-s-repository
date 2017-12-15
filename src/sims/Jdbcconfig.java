@@ -49,7 +49,6 @@ public class Jdbcconfig
 		config.getconnection();
 	}
 	public PreparedStatement prepareStatement(String sql) {
-		// TODO 自动生成的方法存根
 		return null;
 	}
 }

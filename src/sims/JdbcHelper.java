@@ -1,16 +1,12 @@
 package sims;
 import sims.Jdbcconfig;
-//import java.sql.CallableStatement;  
 import java.sql.Connection;  
 import java.sql.PreparedStatement;  
-import java.sql.ResultSet;  
-//import java.sql.ResultSetMetaData;  
+import java.sql.ResultSet;   
 import java.sql.SQLException;  
 import java.sql.Statement;
-//import java.sql.Types;
 import java.util.ArrayList;
 import java.util.List; 
-//import java.awt.*;
 public abstract class JdbcHelper extends InfBean implements PreparedStatement{
 	//保存方法来保存学生信息
 	public static int save(InfBean info){
